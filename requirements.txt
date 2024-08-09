@@ -8,7 +8,7 @@ bracex==2.1.1 \
     --hash=sha256:01f715cd0ed7a622ec8b32322e715813f7574de531f09b70f6f3b2c10f682425 \
     --hash=sha256:64e2a6d14de9c8e022cf40539ac8468ba7c4b99550a2b05fc87fd20e392e568f
     # via wcmatch
-certifi==2023.7.22 \
+certifi==2024.7.4 \
     --hash=sha256:539cc1d13202e33ca466e88b2807e29f4c13049d6d87031a3c110744495cb082 \
     --hash=sha256:92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9
     # via requests
@@ -30,7 +30,7 @@ ghp-import==2.1.0 \
     --hash=sha256:8337dd7b50877f163d4c0289bc1f1c7f127550241988d568c1db512c4324a619 \
     --hash=sha256:9c535c4c61193c2df8871222567d7fd7e5014d835f97dc7b7439069e2413d343
     # via mkdocs
-idna==2.10 \
+idna==3.7 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0
     # via requests
@@ -38,7 +38,7 @@ importlib-metadata==6.0.0 \
     --hash=sha256:7efb448ec9a5e313a57655d35aa54cd3e01b7e1fbcf72dce1bf06119420f5bad \
     --hash=sha256:e354bedeb60efa6affdcc8ae121b73544a7aa74156d047311948f6d711cd378d
     # via mkdocs
-jinja2==3.1.3 \
+jinja2==3.1.4 \
     --hash=sha256:7d6d50dd97d52cbc355597bd845fabfbac3f551e1f99619e39a35ce8c370b5fa \
     --hash=sha256:ac8bd6544d4bb2c9792bf3a159e80bba8fda7f07e81bc3aed565432d5925ba90
     # via
@@ -273,7 +273,7 @@ regex==2022.10.31 \
     --hash=sha256:e613a98ead2005c4ce037c7b061f2409a1a4e45099edb0ef3200ee26ed2a69a8 \
     --hash=sha256:ef4163770525257876f10e8ece1cf25b71468316f61451ded1a6f44273eedeb5
     # via mkdocs-material
-requests==2.31.0 \
+requests==2.32.2 \
     --hash=sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f \
     --hash=sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1
     # via
@@ -283,7 +283,7 @@ six==1.16.0 \
     --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
     --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
     # via python-dateutil
-urllib3==1.26.18 \
+urllib3==1.26.19 \
     --hash=sha256:34b97092d7e0a3a8cf7cd10e386f401b3737364026c45e622aa02903dffe0f07 \
     --hash=sha256:f8ecc1bba5667413457c529ab955bf8c67b45db799d159066261719e328580a0
     # via requests
@@ -310,7 +310,7 @@ wcmatch==8.2 \
     --hash=sha256:4d54ddb506c90b5a5bba3a96a1cfb0bb07127909e19046a71d689ddfb18c3617 \
     --hash=sha256:9146b1ab9354e0797ef6ef69bc89cb32cb9f46d1b9eeef69c559aeec8f3bffb6
     # via mkdocs-awesome-pages-plugin
-zipp==3.15.0 \
+zipp==3.19.1 \
     --hash=sha256:112929ad649da941c23de50f356a2b5570c954b65150642bccdd66bf194d224b \
     --hash=sha256:48904fc76a60e542af151aded95726c1a5c34ed43ab4134b597665c86d7ad556
     # via importlib-metadata
